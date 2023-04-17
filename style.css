@@ -1,0 +1,45 @@
+body{
+    background-color: #DCDCDC;
+    color: whitesmoke;
+}
+header{background-color:#808080; 
+ color: white;
+  display:flex;
+   justify-content: space-around;}
+   img{width: 15%;}
+.vote{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+li{display: inline-block; 
+    margin: 0 16px; 
+    padding: 24px 0; 
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;}
+p{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.porque{
+    color:black;
+}
+.texto2{
+    color:black;
+}
+.creditostitulo{
+    color: black;
+}
+.botao{
+    cursor: pointer;
+    padding: 10px 8px;
+}
+footer{background-color:#808080; 
+    color: white;
+     display:flex;
+      justify-content: space-around;}
+button{background: #363636;
+    border-radius: 6px; padding: 15px;
+    cursor: pointer; color: #fff;
+    border: none;
+    font-size: 16px;}
